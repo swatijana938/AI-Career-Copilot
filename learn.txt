@@ -1,0 +1,6 @@
+venv(virtual environment)
+
+all projects same packages
+
+step 1 - set up
+2. database connection setup
